@@ -8,8 +8,8 @@ Notebook to support the publication *Continuous Monitoring of Permafrost and Act
 This repository contains:
 
 1. [notebook for data processing](./data_processing_AERT_kinggeorge.ipynb): This notebook contains code for automated filtering and inversion of the A-ERT dataset, and generates plots of climate data, ERT results, soil moisture, and temperature.
-2. [data files](./data): This folder contains the A-ERT data files, including raw A-ERT data and site data (temperature, TDR, and climate measurements).
-3. [inverted data](./inverted_data): This folder contains the inverted A-ERT data. This can be loaded quickly into the data processing script to avoid re-processing the data.
+2. [data files](./data): This folder contains raw A-ERT data and site data (temperature, TDR, and climate measurements).
+3. [inverted data](./inverted_data): This folder contains the inverted A-ERT data. This can be loaded quickly into the processing script to avoid re-inverting the data.
  
 ## Setup
 
