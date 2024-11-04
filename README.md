@@ -1,6 +1,9 @@
 **[contents](#Contents) | [setup](#Setup) | [running the notebooks](#running-the-notebooks) | [issues](#issues)**
 
 # AERT_KG
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14037424.svg)](https://doi.org/10.5281/zenodo.14037424)
+
 Notebook to support the publication *Continuous Monitoring of Permafrost and Active Layer Dynamics with Automated Electrical Resistivity Tomography on King George Island, Antarctica* (Herring et al., submitted to Geophysical Research Letters)
 
 ## Contents
