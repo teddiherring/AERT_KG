@@ -2,7 +2,7 @@
 
 # AERT_KG
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14037424.svg)](https://doi.org/10.5281/zenodo.14037424)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22033414.svg)](https://doi.org/10.5281/zenodo.22033414)
 
 Notebook to support the publication *Monitoring Permafrost and Unfrozen Water Content Dynamics Using Automated Electrical Resistivity Tomography on King George Island, Antarctica* (Herring et al., submitted to Permafrost and Periglacial Processes)
 
