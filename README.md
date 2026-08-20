@@ -42,7 +42,7 @@ conda activate kg
 Next, running the following command
 
 ```
-jupyter notebook
+jupyter lab
 ```
 
 will open a Jupyter notebook in your web browser. You can now open the data processing notebook and start running the code!
