@@ -4,14 +4,14 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14037424.svg)](https://doi.org/10.5281/zenodo.14037424)
 
-Notebook to support the publication *Continuous Monitoring of Permafrost and Active Layer Dynamics with Automated Electrical Resistivity Tomography on King George Island, Antarctica* (Herring et al., submitted to Geophysical Research Letters)
+Notebook to support the publication *Monitoring Permafrost and Unfrozen Water Content Dynamics Using Automated Electrical Resistivity Tomography on King George Island, Antarctica* (Herring et al., submitted to Permafrost and Periglacial Processes)
 
 ## Contents
 
 This repository contains:
 
-1. [notebook for data processing](./data_processing_AERT_kinggeorge.ipynb): This notebook contains code for automated filtering and inversion of the A-ERT dataset, and generates plots of climate data, ERT results, soil moisture, and temperature.
-2. [data files](./data): This folder contains raw A-ERT data and site data (temperature, TDR, and climate measurements).
+1. [notebooks for data processing](./data_processing): This folder contains code for processing and plotting the A-ERT data and complementary site data.
+2. [data files](./data): This folder contains raw A-ERT measurements and climate, borehole, and active layer data.
 3. [inverted data](./inverted_data): This folder contains the inverted A-ERT data. This can be loaded quickly into the processing script to avoid re-inverting the data.
  
 ## Setup
