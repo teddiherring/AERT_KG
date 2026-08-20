@@ -2,12 +2,13 @@ name: kg
 channels:
   - conda-forge
   - defaults
-  - gimli
 dependencies:
-  - python=3.9  
-  - pygimli=1.2.4
+  - pygimli
   - jupyterlab
-  - jupyter_server
   - pandas
-  - matplotlib=3.3
+  - imageio
+  - xlrd
+  - ipywidgets
+  - ffmpeg
+  - imageio-ffmpeg
   - openpyxl
